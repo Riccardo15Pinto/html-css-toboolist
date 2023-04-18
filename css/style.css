@@ -16,7 +16,7 @@ header, .container-main{
     background-color: white;
 }
 
-figure, .ticket{
+figure, .ticket, .list-element{
     display: inline-block;
 }
 
@@ -67,8 +67,6 @@ button{
 
 .New-Task, .new-list-point{
     margin: 30px;
+    list-style: none;
 }
 
-li{
-    text-decoration: none;
-}
