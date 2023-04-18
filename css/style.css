@@ -16,7 +16,7 @@ header, .container-main{
     background-color: white;
 }
 
-figure{
+figure, .ticket{
     display: inline-block;
 }
 
@@ -61,4 +61,14 @@ button{
 
 .line-row{
     height: 3px;
+}
+
+/*list section*/
+
+.New-Task, .new-list-point{
+    margin: 30px;
+}
+
+li{
+    text-decoration: none;
 }
