@@ -59,14 +59,44 @@ button{
     background-color: #1e90ff;
 }
 
-.line-row{
+.line-row {
     height: 3px;
 }
 
 /*list section*/
 
-.New-Task, .new-list-point{
+.New-Task{
     margin: 30px;
     list-style: none;
 }
 
+.element-title{
+    font-size: 10px;
+    vertical-align: middle;
+}
+
+.list-element{
+    color: green;
+   width: 25px;
+   height: 25px;
+   border: 1px solid green;
+   border-radius: 50%;
+   padding-left: 5px;
+
+}
+
+.new-list-point{
+    list-style: none;
+
+}
+
+ul{
+    padding-left: 0;
+    margin-top: 25px;
+}
+
+.ticket{
+    background-color: #1e90ff;
+    padding: 3px 10px;
+    border-radius: 15px;
+}
