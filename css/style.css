@@ -105,7 +105,30 @@ ul{
 }
 
 .ticket{
-    background-color: #1e90ff;
     padding: 3px 10px;
     border-radius: 15px;
+}
+
+.editorial{
+    background-color: #87bff7;
+}
+
+.mobile{
+    background-color: orange;
+}
+
+.Recruiting{
+    background-color: rgb(39, 201, 160);
+}
+
+.Q1-goals{
+    background-color: rgb(206, 79, 231);
+}
+
+.website{
+    background-color:rgb(250, 126, 233) ;
+}
+
+.sales{
+    background-color:rgb(201, 248, 72) ;
 }
